@@ -18,7 +18,7 @@ import config
 
 # --- App Layout ---
 st.set_page_config(page_title="Titanic Survival Predictor", layout="wide")
-st.title("🚢 Titanic Survival Predictor")
+st.title("🚢 Titanic Survival Predictor******")
 st.write("An app to demonstrate a production-ready ML workflow with model validation.")
 
 st.sidebar.title("Actions")
